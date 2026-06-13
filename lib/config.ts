@@ -149,26 +149,26 @@ export const benefits = {
 };
 
 // ── Instalaciones ─────────────────────────────────────────────────────────────
-// export const facilities = {
-//   sectionLabel: "Instalaciones",
-//   headlineLine: "Espacios diseñados para",
-//   headlineAccent: "tu progreso.",
-//   ctaLabel: "Escribir por WhatsApp ahora",
-//   imgs: [
-//     {
-//       alt: "01",
-//       src: "/imgs/instalaciones-01.jpg",
-//     },
-//     {
-//       alt: "02",
-//       src: "/imgs/instalaciones-02.jpg",
-//     },
-//     {
-//       alt: "03",
-//       src: "/imgs/instalaciones-03.jpg",
-//     },
-//   ],
-// };
+export const facilities = {
+  sectionLabel: "Instalaciones",
+  headlineLine: "Espacios diseñados para",
+  headlineAccent: "tu progreso.",
+  ctaLabel: "Escribir por WhatsApp ahora",
+  imgs: [
+    {
+      alt: "01",
+      src: "/imgs/instalaciones-01.jpg",
+    },
+    {
+      alt: "02",
+      src: "/imgs/instalaciones-02.jpg",
+    },
+    {
+      alt: "03",
+      src: "/imgs/instalaciones-03.jpg",
+    },
+  ],
+};
 
 // ── Precios ─────────────────────────────────────────────────────────────
 export const pricing = {
